@@ -15,5 +15,5 @@ Git Commands Documentation.pdf
 bikeshare.py
 
 ### Credits
-git documentation - https://git-scm.com/doc
+git documentation - https://git-scm.com/doc - Very useful
 
