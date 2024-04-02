@@ -10,6 +10,7 @@ Post your Work on GitHub
 Simulating a realistic workflow to refactor my previous BikeShare project using Git.
 
 ### Files used
+Two files use in this project
 Git Commands Documentation.pdf
 bikeshare.py
 
